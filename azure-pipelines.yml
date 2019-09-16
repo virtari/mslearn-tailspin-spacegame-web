@@ -1,2 +1,2 @@
-pool:
+ssajsdpool:
   vmImage: 'Ubuntu-16.04'
